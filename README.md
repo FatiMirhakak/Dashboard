@@ -24,6 +24,7 @@ Waffle chart
 Regression chart
 Folium map if dataset has location
 Choropleth for region-wise metrics 
+
 Step 7: Add markdown / text explaining each chart 
 
 Step 8: Build Interactive Dashboard (Plotly Dash) 
