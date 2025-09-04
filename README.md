@@ -26,7 +26,7 @@ Folium map if dataset has location
 Choropleth for region-wise metrics 
 Step 7: Add markdown / text explaining each chart 
 
-Step 6: Build Interactive Dashboard (Plotly Dash) 
+Step 8: Build Interactive Dashboard (Plotly Dash) 
 
 Layout: Define html.Div, dcc.Graph, dcc.Dropdown etc. 
 
