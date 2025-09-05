@@ -34,4 +34,4 @@ This project makes data analysis **student-friendly** by combining learning with
 It shows how raw data can be turned into meaningful insights using **Python visualization tools**.
 
 ---
-👩‍💻 *Created as part of Course 8 Activities – Visualization & Dashboarding*
+👩‍💻 *Created as part of IBM Data Analysis Course 8 Activities – Visualization & Dashboarding*
