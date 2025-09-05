@@ -1,5 +1,5 @@
-
-## 📊 Canadian Unemployment Dashboard (1976–2023)
+# Dashboard
+## 📊 Canadian Unemployment Rate By Provinces(1976–2023)
 This project is part of **Course 8 Activities**, where we learned how to create visualizations and dashboards using Python libraries and tools like **Matplotlib, Seaborn, Plotly, and Dash**.
 
 ## 📊 What the Dashboard Does
