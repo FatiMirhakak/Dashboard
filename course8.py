@@ -43,15 +43,13 @@ import io
 print ('Matplotlib version: ', mpl.__version__) # >= 2.0.0
 print('Seaborn version: ', sns.__version__)
 
-import aiohttp
 import asyncio
 
-async def download(url, filename):
-    async with aiohttp.ClientSession() as session:
-        async with session.get(url) as response:
-            if response.status == 200:
-                with open(filename, 'wb') as f:
-                    f.write(await response.read())
+async def main():
+    await download(file_path, "file.csv")
+
+# Run the async function
+asyncio.run(main())
 
 file_path="https://raw.githubusercontent.com/datagy/data/main/Unemployment_Canada_1976_present.csv"
 
