@@ -7,9 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1OK25h7cbMpVyyhqQACeURc7QmbyYkAXH
 """
 
-!pip install folium
-!pip install pywaffle
-!pip install dash pandas plotly
+#!pip install folium
+#!pip install pywaffle
+#!pip install dash pandas plotly
+import subprocess
+import sys
+
+subprocess.check_call([sys.executable, "-m", "pip", "install", "folium"])
 
 # Data handling
 import pandas as pd
